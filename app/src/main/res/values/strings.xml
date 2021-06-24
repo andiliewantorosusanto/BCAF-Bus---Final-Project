@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BCAF Bus - Final Project</string>
+
+    <string name="field_empty">Field cannot be null!</string>
+    <string name="error">Error!</string>
+    <string name="email_not_valid">Email not valid!</string>
+    <string name="password_not_match">Password does not match</string>
+
+</resources>

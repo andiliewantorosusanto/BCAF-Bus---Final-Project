@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Night  -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#03A9F4</color>
+    <color name="purple_700">#03A9F4</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!--  Light  -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFC107</color>
+    <color name="blue">#03A9F4</color>
+    <color name="blueDark">#056B9A</color>
+    <color name="red">#EF2C2C</color>
+    <color name="gray">#D1CDCD</color>
+    <color name="gray_dark">#1B1B1B</color>
+    <color name="black_200">#C8C8C8</color>
+    <color name="black_500">#969696</color>
+    <color name="black_700">#323232</color>
+    <color name="blue_200">#9FA8DA</color>
+    <color name="blue_500">#3F51B5</color>
+    <color name="blue_700">#303F9F</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#388E3C</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="orange_200">#FFCC80</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_700">#F57C00</color>
+    <color name="bca">#005CAA</color>
+    <color name="finance">#009EB2</color>
+    <color name="transparent">#00FFFFFF</color>
+    <!--  Default   -->
+    <color name="colorPrimary">#EF2C2C</color>
+    <color name="colorPrimaryDark">#EF2C2C</color>
+    <color name="colorAccent">#EF2C2C</color>
+
+    <color name="primaryTextColor">#EF2C2C</color>
+    <color name="loginBkColor">#f0f0f0</color>
+</resources>
