@@ -8,13 +8,13 @@ Password : password
 Apk Location On Project : https://github.com/andiliewantorosusanto/BCAF-Bus---Final-Project/blob/master/app/release/app-release.apk
 
 ## Flow Aplikasi
-- 1. Splash Screen
-- 2. Login
-- 3. Register
-- 4. Home
-  - 4.1 List Schedule
-  - 4.2 Pemesanan Tiket Berdasarkan Schedule
- - 5. Tiket
-- 6. Profile
-  - 6.1 Logout
+- Splash Screen
+- Login
+- Register
+- Home
+  - List Schedule
+  - Pemesanan Tiket Berdasarkan Schedule
+- Tiket
+- Profile
+  - Logout
 
